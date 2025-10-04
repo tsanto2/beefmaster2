@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 8b91ab58b7aac0b418822c81a1c3f5f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barn_LOD0
+    100002: Barn_LOD1
+    100004: Barn_LOD2
+    100006: //RootNode
+    400000: Barn_LOD0
+    400002: Barn_LOD1
+    400004: Barn_LOD2
+    400006: //RootNode
+    2100000: WoodA_Mat
+    2100002: WoodenPlanksA_Mat
+    2100004: BarnWall_Mat
+    2100006: RoofA_Mat
+    2100008: TudorWall_Mat
+    2100010: WhitePaint_Mat
+    2100012: WindowGlassA
+    2100014: StrawAlpha_Mat
+    2100016: Rope_Mat
+    2100018: DoorA_Mat
+    2100020: BarnDoor_Mat
+    2300000: Barn_LOD0
+    2300002: Barn_LOD1
+    2300004: Barn_LOD2
+    3300000: Barn_LOD0
+    3300002: Barn_LOD1
+    3300004: Barn_LOD2
+    4300000: Barn_LOD0
+    4300002: Barn_LOD1
+    4300004: Barn_LOD2
+    6400000: Barn_LOD0
+    6400002: Barn_LOD1
+    6400004: Barn_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarnDoor_Mat
+    second: {fileID: 2100000, guid: 864b8e9c044ae4e4cb67628e2958050c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarnWall_Mat
+    second: {fileID: 2100000, guid: 4b9d91ab61a320b459449fd7b4011341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorA_Mat
+    second: {fileID: 2100000, guid: 910225d24d118c84ea3493cb0c4d6e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofA_Mat
+    second: {fileID: 2100000, guid: ce736f9796b8f214d92a34314077cf4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope_Mat
+    second: {fileID: 2100000, guid: 1cb4c10cd26a85a42aae135300f82ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrawAlpha_Mat
+    second: {fileID: 2100000, guid: c1f98093299e3b8469116e6a69acda58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TudorWall_Mat
+    second: {fileID: 2100000, guid: 8f7d55108ce41f542b639f9f4db836dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePaint_Mat
+    second: {fileID: 2100000, guid: 75bccafd98170d2498281eaa246adfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowGlassA
+    second: {fileID: 2100000, guid: f4c2800d1b182064b803fbbab67db275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodA_Mat
+    second: {fileID: 2100000, guid: 19746d9c5712c444cac405872944bd90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodenPlanksA_Mat
+    second: {fileID: 2100000, guid: b49c3d09d884c65428b9dad085601960, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
